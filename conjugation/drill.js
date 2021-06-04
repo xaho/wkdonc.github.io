@@ -182,7 +182,7 @@ function processAnswerKey() {
 
     "lu": "っ",
 
-    "nn": "ん", "n'": "ん",
+    "nn": "ん", "n'": "ん", "n ": "ん",
 
     "nb": "んb", "nc": "んc", "nd": "んd", "nf": "んf", "ng": "んg",
     "nh": "んh", "nj": "んj", "nk": "んk", "nl": "んl", "nm": "んm",
